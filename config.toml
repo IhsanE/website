@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ihsan Etwaroo"
+theme = "journal"
+
+[author]
+  homepage = "https://your.homepage.com/"
+
+[params]
+  description = "Blog meta description."
+  githubUsername = "ihsane"
+  mediumUsername = "@ihsanetwaroo"
+  linkedinUsername = "ihsan-etwaroo-61339487"
+  tagline = ""
+[params.work]
+  jobTitle = "Software Engineer"
+  company = "Pinterest"
+  companyUrl = "https://www.pinterest.com/"
